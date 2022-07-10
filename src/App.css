@@ -1,0 +1,27 @@
+*{
+  margin: 10px; 
+  /* background-color: rgb(252, 242, 229); */
+  box-sizing: border-box;
+  font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+} 
+body{
+ margin: 0 7% 0 7%;
+}
+header{
+ display: flex;
+ flex-direction: row;
+margin-bottom: 40px;
+
+}
+
+main{
+display: flex;
+flex-direction: column;
+justify-content: center;
+}
+
+
+
+
+
+
